@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 
 const STORAGE_KEY = "rnc-workforce-dashboard-v4";
 const SHARED_PASSWORD = "RNC2026!";
